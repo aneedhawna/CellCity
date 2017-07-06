@@ -1,0 +1,42 @@
+﻿.site-footer{
+   background-color: #161716;
+   color: #2B9BAD;
+
+}
+
+.bottom-footer{
+	border-top: 1px solid #b2b2b2;
+	margin-top: 10px;
+	padding-top: 10px;
+   background-color: #161716;
+}
+
+.footer-nav{
+	text-align: right;
+}
+
+.footer-nav li{
+	display: inline;
+	padding: 10px;
+}
+
+.carousel-inner {
+    width: 100%;
+    height: 100%;
+}
+#container{
+    height: 100%;
+    width: 100%;
+    background: green;
+    position: absolute;
+}
+#header, #footer {
+    height: 100px;
+    width: 100%;
+    background: red;
+}
+#body {
+    height: 100%;
+    width: 100%;
+    background: blue;
+}

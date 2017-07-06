@@ -1,0 +1,9 @@
+E:\CellCity\CellCity\CellCity.Data\bin\Debug\CellCity.Data.dll.config
+E:\CellCity\CellCity\CellCity.Data\bin\Debug\CellCity.Data.dll
+E:\CellCity\CellCity\CellCity.Data\bin\Debug\CellCity.Data.pdb
+E:\CellCity\CellCity\CellCity.Data\bin\Debug\EntityFramework.dll
+E:\CellCity\CellCity\CellCity.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\CellCity\CellCity\CellCity.Data\bin\Debug\EntityFramework.xml
+E:\CellCity\CellCity\CellCity.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\CellCity\CellCity\CellCity.Data\obj\Debug\CellCity.Data.dll
+E:\CellCity\CellCity\CellCity.Data\obj\Debug\CellCity.Data.pdb

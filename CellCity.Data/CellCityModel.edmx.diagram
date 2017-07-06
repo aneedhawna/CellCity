@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6ff02107519e482fa042cf4bc6c65a2c" Name="Diagram1" ZoomLevel="90">
+        <EntityTypeShape EntityType="CellCityModel.Order" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CellCityModel.Product" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CellCityModel.User" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CellCityModel.WishList" Width="1.5" PointX="6" PointY="5" IsExpanded="true" />
+        <AssociationConnector Association="CellCityModel.fk_Order_Product_id" ManuallyRouted="false" />
+        <AssociationConnector Association="CellCityModel.fk_Order_User_id" ManuallyRouted="false" />
+        <AssociationConnector Association="CellCityModel.fk_Order_WishList_id" ManuallyRouted="false" />
+        <AssociationConnector Association="CellCityModel.fk_WishList_product_id" ManuallyRouted="false" />
+        <AssociationConnector Association="CellCityModel.fk_WishList_user_id" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
